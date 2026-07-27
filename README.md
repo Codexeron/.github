@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="(https://codexeron.com/uploads/logo.png)" alt="Codexeron Logo" width="160">
+<img src="https://codexeron.com/uploads/logo.png" alt="Codexeron Logo" width="160">
 
 # Codexeron
 
