@@ -1,51 +1,124 @@
-# 🚀 Welcome to Codexeron
+<div align="center">
 
-## The Next Generation Code Marketplace
+<img src="https://www.codexeron.com/assets/images/logo.png" alt="Codexeron Logo" width="160">
+
+# Codexeron
+
+### The Next Generation Code Marketplace
+
+**Build Once. Sell Worldwide.**
+
+Develop. Publish. Earn.
+
+🌍 https://www.codexeron.com
+
+</div>
+
+---
+
+# Welcome to Codexeron
 
 Codexeron is a developer-first marketplace built for software creators.
 
-Sell source code, APIs, SaaS projects, AI applications, plugins, templates and more to customers worldwide.
+Our mission is to help developers publish, sell and grow their digital products from a single platform.
+
+Whether you create small utilities or enterprise applications, Codexeron provides the tools to reach customers around the world.
 
 ---
 
-## 🌍 Official Website
+# What Can You Sell?
 
-https://www.codexeron.com
-
----
-
-## 💼 What We Build
-
-- Code Marketplace
-- REST API
-- SDKs
+- PHP Scripts
+- Laravel Projects
+- JavaScript Applications
+- React Projects
+- Vue.js Projects
+- Flutter Apps
+- APIs
+- SaaS Platforms
+- AI Applications
+- Desktop Software
+- Mobile Applications
+- WordPress Plugins
+- CMS Extensions
+- Templates
 - Developer Tools
+
+---
+
+# Why Codexeron?
+
+- Developer-focused platform
+- Secure digital product delivery
+- Global marketplace
+- USDT payment support
+- Product license management
+- Modern developer ecosystem
+- Official documentation
+- SDK ecosystem
+- Marketplace API (Planned)
+
+---
+
+# Official Repositories
+
+| Repository | Purpose |
+|------------|---------|
+| documentation | Official documentation |
+| codexeron-api | API specifications and future SDK support |
+| php-sdk | PHP SDK |
+| laravel-sdk | Laravel SDK |
+| javascript-sdk | JavaScript SDK |
+| flutter-sdk | Flutter SDK |
+| examples | Integration examples |
+| postman-collection | API testing collection |
+| api-status | Service status |
+| awesome-codexeron | Curated developer resources |
+
+---
+
+# Roadmap
+
+### Phase 1
+
+- Marketplace
 - Documentation
-- AI Solutions
-- License Management
-- USDT Payment Infrastructure
+- GitHub Organization
+
+### Phase 2
+
+- Public API
+- PHP SDK
+- Laravel SDK
+- JavaScript SDK
+- Flutter SDK
+
+### Phase 3
+
+- AI Developer Tools
+- CLI
+- VS Code Extension
+- Developer Dashboard
+- Analytics
 
 ---
 
-## 📚 Official Repositories
+# Our Vision
 
-- documentation
-- codexeron-api
-- php-sdk
-- laravel-sdk
-- javascript-sdk
-- flutter-sdk
-- examples
-- awesome-codexeron
+To become one of the world's leading software marketplaces where developers can build sustainable businesses by selling high-quality digital products.
 
 ---
 
-## 🎯 Our Mission
+# Website
 
-Helping developers transform their ideas into sustainable digital businesses.
+🌍 https://www.codexeron.com
 
 ---
 
-## ❤️ Join the Community
+<div align="center">
 
-Star our repositories and follow our progress.
+### Build Once. Sell Worldwide.
+
+⭐ Follow our GitHub organization to stay updated.
+
+</div>
