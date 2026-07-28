@@ -1,126 +1,97 @@
 # Security Policy
 
-Thank you for helping keep Codexeron and our community safe.
+## Reporting Security Issues
 
-We take security seriously and appreciate responsible disclosure of security vulnerabilities.
+Security is an important part of the Codexeron ecosystem.
 
----
+If you discover a potential security vulnerability, please report it responsibly.
 
-# Supported Versions
-
-The following versions currently receive security updates.
-
-| Version | Supported |
-|----------|-----------|
-| 1.x.x    | ✅ Yes |
-| < 1.0    | ❌ No |
+Do not publicly disclose security issues before they have been reviewed and addressed.
 
 ---
 
-# Reporting a Vulnerability
+# How to Report a Security Issue
 
-If you discover a security vulnerability, please do not create a public GitHub Issue.
+When reporting a security issue, please include:
 
-Instead, report it privately.
+- Description of the vulnerability
+- Affected project or component
+- Steps to reproduce the issue
+- Potential impact
+- Additional technical details when available
 
-Contact:
-
-security@codexeron.com
-
-Please include:
-
-- Detailed description
-- Steps to reproduce
-- Proof of Concept (if available)
-- Screenshots
-- Expected behavior
-- Impact assessment
-
----
-
-# Response Timeline
-
-We aim to respond according to the following timeline.
-
-Initial Response
-
-Within 48 hours
-
-Investigation
-
-Within 7 business days
-
-Fix Development
-
-Depends on severity.
-
-Security patches are prioritized.
+Providing detailed information helps us investigate faster.
 
 ---
 
 # Responsible Disclosure
 
-Please allow us reasonable time to investigate and fix reported vulnerabilities before public disclosure.
+We encourage responsible security research.
 
-We appreciate researchers who follow responsible disclosure practices.
+Please avoid:
 
----
-
-# Scope
-
-Examples include:
-
-- Authentication bypass
-- Authorization issues
-- SQL Injection
-- XSS
-- CSRF
-- Remote Code Execution
-- File Upload vulnerabilities
-- Privilege Escalation
-- Sensitive Data Exposure
-- Business Logic flaws
+- Accessing unauthorized data
+- Disrupting services
+- Testing against real user information
+- Publicly sharing vulnerabilities before resolution
 
 ---
 
-# Out of Scope
+# Supported Versions
 
-The following generally do not qualify.
+Security support depends on the project and release status.
 
-- Missing HTTP headers
-- Clickjacking without exploit
-- Self-XSS
-- Spam reports
-- Social engineering
-- Physical attacks
-- Outdated browser issues
+Example:
 
----
-
-# Security Best Practices
-
-Researchers should:
-
-- Avoid accessing unnecessary user data
-- Do not interrupt service
-- Do not modify customer data
-- Avoid automated destructive scanning
-- Report findings privately
+| Version | Supported |
+|---------|-----------|
+| Latest Release | ✅ |
+| Previous Releases | Depends on project status |
+| Unsupported Versions | ❌ |
 
 ---
 
-# Future Security Program
+# Security Improvements
 
-Future plans include:
+Codexeron continuously works to improve:
 
-- Security.txt
-- PGP encrypted reporting
-- Bug Bounty Program
-- Security Hall of Fame
-- Coordinated Vulnerability Disclosure (CVD)
+- Account security
+- Data protection
+- Product security
+- Platform reliability
+- Secure development practices
 
 ---
 
-# Thank You
+# Product Security
 
-We sincerely appreciate everyone who helps improve the security of Codexeron.
+Developers publishing products on Codexeron should:
+
+- Follow secure coding practices.
+- Protect user data.
+- Avoid malicious code.
+- Keep dependencies updated.
+- Provide secure updates.
+
+---
+
+# Platform Security
+
+Codexeron may use security measures including:
+
+- Access controls
+- Authentication protections
+- Monitoring systems
+- Secure communication methods
+
+---
+
+# Contact
+
+For security-related reports, please use the official Codexeron security communication channels.
+
+---
+
+Thank you for helping keep the Codexeron ecosystem secure.
+
+© 2026 Codexeron. All rights reserved.
