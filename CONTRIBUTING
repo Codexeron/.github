@@ -1,194 +1,153 @@
 # Contributing to Codexeron
 
-First of all, thank you for your interest in contributing to Codexeron.
+Thank you for your interest in contributing to Codexeron.
 
-We welcome contributions from developers around the world. Whether you're fixing a bug, improving documentation, adding a feature, or suggesting an enhancement, your help is greatly appreciated.
-
----
-
-# Before You Start
-
-Please ensure that you:
-
-- Read the project documentation.
-- Search existing Issues before opening a new one.
-- Follow the project's coding standards.
-- Keep Pull Requests focused on a single purpose.
+We welcome improvements, suggestions, documentation updates, and developer contributions that help improve the Codexeron ecosystem.
 
 ---
 
-# Development Environment
+# How You Can Contribute
 
-Recommended tools:
+You can contribute by:
 
-- PHP 8.3+
-- Composer
-- MySQL 8+
-- Git
-- Visual Studio Code or PhpStorm
-
-Optional:
-
-- Docker
-- Redis
+- Improving documentation
+- Reporting issues
+- Suggesting new features
+- Fixing errors
+- Improving examples
+- Sharing feedback
 
 ---
 
-# Branch Strategy
+# Before Contributing
 
-Please use the following naming conventions:
+Before making changes:
 
-feature/feature-name
-
-bugfix/issue-name
-
-hotfix/security-fix
-
-docs/update-documentation
-
-refactor/component-name
-
-Example:
-
-feature/product-review-system
+- Check existing issues.
+- Review current documentation.
+- Avoid duplicate submissions.
+- Make sure your contribution matches the project goals.
 
 ---
 
-# Commit Message Convention
+# Contribution Process
 
-Use clear and descriptive commit messages.
+Follow these steps:
+
+## 1. Create a Fork
+
+Create your own copy of the repository.
+
+---
+
+## 2. Create a Branch
+
+Use a clear branch name.
 
 Examples:
 
-feat: add product rating system
-
-fix: resolve SQL injection vulnerability
-
-docs: update installation guide
-
-refactor: improve authentication service
-
-style: format source code
-
-test: add unit tests
+```
+feature/add-new-guide
+fix/documentation-error
+update/readme
+```
 
 ---
 
-# Coding Standards
+## 3. Make Changes
 
-Please follow:
+Keep changes:
 
-- PSR-12 Coding Style
-- Meaningful variable names
-- Small reusable methods
-- Proper comments where necessary
-- Security-first development
-
-Avoid:
-
-- Duplicate code
-- Hardcoded secrets
-- Unused files
-- Dead code
+- Clear
+- Focused
+- Well documented
+- Easy to review
 
 ---
 
-# Pull Request Guidelines
+## 4. Commit Changes
+
+Use meaningful commit messages.
+
+Examples:
+
+```
+Add seller documentation guide
+
+Fix installation instructions
+
+Update API overview
+```
+
+---
+
+## 5. Submit a Pull Request
 
 Before submitting:
 
-- Update documentation if necessary.
-- Test your changes.
-- Resolve merge conflicts.
-- Ensure no sensitive data is committed.
-
-Every Pull Request should clearly explain:
-
-- What changed
-- Why it changed
-- How it was tested
+- Review your changes.
+- Check formatting.
+- Provide a clear explanation.
+- Describe the purpose of the change.
 
 ---
 
-# Reporting Bugs
+# Documentation Guidelines
 
-Please include:
+When improving documentation:
 
-- PHP version
-- Browser
-- Operating System
-- Steps to reproduce
-- Expected behavior
-- Actual behavior
-- Screenshots (if applicable)
+- Use clear language.
+- Keep information accurate.
+- Avoid unnecessary complexity.
+- Maintain consistent formatting.
+- Update related sections when needed.
 
 ---
 
-# Feature Requests
+# Code Contributions
 
-Feature requests should explain:
+For code-related repositories:
 
-- Problem
-- Proposed solution
-- Alternatives considered
-- Benefits
-
----
-
-# Security
-
-Security vulnerabilities must NOT be reported through public GitHub Issues.
-
-Please see SECURITY.md.
+- Follow project coding standards.
+- Include necessary tests.
+- Avoid introducing security risks.
+- Keep changes maintainable.
 
 ---
 
-# Code Review
+# Security Issues
 
-Every contribution may be reviewed for:
+Do not publicly disclose security vulnerabilities.
 
-- Code quality
+Please follow the security reporting process described in:
+
+```
+SECURITY.md
+```
+
+---
+
+# Code of Conduct
+
+All contributors must follow the Codexeron Code of Conduct.
+
+Respectful and professional communication is expected.
+
+---
+
+# Review Process
+
+All contributions may be reviewed before being accepted.
+
+Reviews help maintain:
+
+- Quality
 - Security
-- Performance
-- Maintainability
-- Documentation
-
-Maintainers may request changes before merging.
+- Consistency
+- Long-term maintainability
 
 ---
 
-# Documentation
+Thank you for helping improve Codexeron.
 
-Documentation improvements are always welcome.
-
-This includes:
-
-- Tutorials
-- Examples
-- Installation guides
-- API documentation
-- FAQ
-
----
-
-# Community
-
-Please follow our Code of Conduct.
-
-Be respectful.
-
-Be constructive.
-
-Help others learn.
-
----
-
-# License
-
-By contributing, you agree that your contributions will be licensed under the project's license.
-
----
-
-# Thank You
-
-Thank you for helping build Codexeron into a trusted platform for developers worldwide.
+© 2026 Codexeron. All rights reserved.
