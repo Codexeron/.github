@@ -1,108 +1,114 @@
-# Contributor Covenant Code of Conduct
+# Code of Conduct
 
-## Our Pledge
+## Codexeron Community Guidelines
 
-We, as members, contributors, and maintainers of the Codexeron community, pledge to make participation in our project a welcoming, respectful, and professional experience for everyone.
+Codexeron aims to create a professional, respectful, and collaborative environment for developers, contributors, sellers, and users.
 
-We are committed to fostering an open, inclusive, and collaborative environment where developers of all backgrounds and experience levels can contribute with confidence.
+Everyone participating in the Codexeron community is expected to follow these guidelines.
 
 ---
 
 # Our Standards
 
-Examples of behavior that contributes to a positive environment include:
+We encourage:
 
-- Being respectful and professional.
-- Giving constructive feedback.
-- Accepting constructive criticism gracefully.
-- Helping new contributors.
-- Sharing knowledge openly.
-- Respecting different viewpoints.
-- Prioritizing security and code quality.
-- Communicating clearly and honestly.
+- Respectful communication
+- Professional collaboration
+- Constructive feedback
+- Knowledge sharing
+- Inclusive participation
+- Honest contributions
+
+---
+
+# Expected Behavior
+
+Community members should:
+
+- Communicate respectfully.
+- Help others when possible.
+- Provide constructive feedback.
+- Respect different opinions and approaches.
+- Focus on improving the project.
 
 ---
 
 # Unacceptable Behavior
 
-The following behaviors are unacceptable:
+The following behaviors are not accepted:
 
-- Harassment or discrimination.
-- Personal attacks.
-- Offensive or abusive language.
-- Trolling or intentionally disruptive behavior.
-- Publishing private information without permission.
-- Spam or malicious content.
-- Security abuse or exploitation.
-- Submitting intentionally harmful code.
-
----
-
-# Our Responsibilities
-
-Project maintainers are responsible for:
-
-- Reviewing contributions fairly.
-- Enforcing community standards.
-- Maintaining a respectful environment.
-- Protecting contributors from harassment.
-- Making moderation decisions transparently.
+- Harassment
+- Personal attacks
+- Discrimination
+- Threats
+- Offensive language
+- Spam
+- Malicious activity
+- Intentional disruption of projects
 
 ---
 
-# Reporting Issues
+# Contribution Responsibility
 
-If you experience or witness unacceptable behavior, please contact:
+Contributors should:
 
-community@codexeron.com
+- Submit original work.
+- Respect intellectual property rights.
+- Follow project guidelines.
+- Avoid introducing security risks.
+- Provide accurate information.
 
-For security-related matters, please refer to SECURITY.md.
+---
+
+# Security Responsibility
+
+Community members must not:
+
+- Attempt unauthorized access.
+- Exploit vulnerabilities for harm.
+- Share private information.
+- Disrupt Codexeron services.
+
+Security issues should be reported through the appropriate security channels.
+
+---
+
+# Professional Communication
+
+When participating in discussions:
+
+- Be clear and respectful.
+- Focus on ideas, not individuals.
+- Accept constructive criticism.
+- Maintain a professional attitude.
 
 ---
 
 # Enforcement
 
-Project maintainers may:
+Violations of this Code of Conduct may result in actions including:
 
-- Remove inappropriate comments.
-- Close disruptive issues.
-- Reject malicious Pull Requests.
-- Temporarily restrict participation.
-- Permanently ban users who repeatedly violate this Code of Conduct.
+- Warning
+- Removal of inappropriate content
+- Restriction from participation
+- Removal of contribution privileges
 
-Enforcement decisions will be made fairly and consistently.
-
----
-
-# Scope
-
-This Code of Conduct applies to:
-
-- GitHub repositories
-- Discussions
-- Issues
-- Pull Requests
-- Documentation
-- Community events
-- Official communication channels
+Actions will be taken when necessary to protect the community.
 
 ---
 
-# Our Values
+# Reporting Issues
 
-At Codexeron, we value:
-
-- Professionalism
-- Transparency
-- Security
-- Collaboration
-- Innovation
-- Continuous learning
-- Respect
-- Open communication
+If you experience or observe unacceptable behavior, report it through the official Codexeron communication channels.
 
 ---
 
-# Attribution
+# Commitment
 
-This Code of Conduct is inspired by the Contributor Covenant and adapted for the Codexeron community.
+By participating in the Codexeron community, you agree to maintain a respectful and professional environment.
+
+Thank you for helping build a better developer ecosystem.
+
+---
+
+© 2026 Codexeron. All rights reserved.
