@@ -1,10 +1,108 @@
-# Code of Conduct
+# Contributor Covenant Code of Conduct
 
-## Our Standards
+## Our Pledge
 
-- Be respectful.
-- Be professional.
-- Help other developers.
-- Encourage constructive discussions.
+We, as members, contributors, and maintainers of the Codexeron community, pledge to make participation in our project a welcoming, respectful, and professional experience for everyone.
 
-Thank you for being part of the Codexeron community.
+We are committed to fostering an open, inclusive, and collaborative environment where developers of all backgrounds and experience levels can contribute with confidence.
+
+---
+
+# Our Standards
+
+Examples of behavior that contributes to a positive environment include:
+
+- Being respectful and professional.
+- Giving constructive feedback.
+- Accepting constructive criticism gracefully.
+- Helping new contributors.
+- Sharing knowledge openly.
+- Respecting different viewpoints.
+- Prioritizing security and code quality.
+- Communicating clearly and honestly.
+
+---
+
+# Unacceptable Behavior
+
+The following behaviors are unacceptable:
+
+- Harassment or discrimination.
+- Personal attacks.
+- Offensive or abusive language.
+- Trolling or intentionally disruptive behavior.
+- Publishing private information without permission.
+- Spam or malicious content.
+- Security abuse or exploitation.
+- Submitting intentionally harmful code.
+
+---
+
+# Our Responsibilities
+
+Project maintainers are responsible for:
+
+- Reviewing contributions fairly.
+- Enforcing community standards.
+- Maintaining a respectful environment.
+- Protecting contributors from harassment.
+- Making moderation decisions transparently.
+
+---
+
+# Reporting Issues
+
+If you experience or witness unacceptable behavior, please contact:
+
+community@codexeron.com
+
+For security-related matters, please refer to SECURITY.md.
+
+---
+
+# Enforcement
+
+Project maintainers may:
+
+- Remove inappropriate comments.
+- Close disruptive issues.
+- Reject malicious Pull Requests.
+- Temporarily restrict participation.
+- Permanently ban users who repeatedly violate this Code of Conduct.
+
+Enforcement decisions will be made fairly and consistently.
+
+---
+
+# Scope
+
+This Code of Conduct applies to:
+
+- GitHub repositories
+- Discussions
+- Issues
+- Pull Requests
+- Documentation
+- Community events
+- Official communication channels
+
+---
+
+# Our Values
+
+At Codexeron, we value:
+
+- Professionalism
+- Transparency
+- Security
+- Collaboration
+- Innovation
+- Continuous learning
+- Respect
+- Open communication
+
+---
+
+# Attribution
+
+This Code of Conduct is inspired by the Contributor Covenant and adapted for the Codexeron community.
