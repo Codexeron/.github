@@ -1,19 +1,194 @@
 # Contributing to Codexeron
 
-Thank you for your interest in contributing.
+First of all, thank you for your interest in contributing to Codexeron.
 
-## How to Contribute
+We welcome contributions from developers around the world. Whether you're fixing a bug, improving documentation, adding a feature, or suggesting an enhancement, your help is greatly appreciated.
 
-1. Fork the repository.
-2. Create a new branch.
-3. Make your changes.
-4. Test your changes.
-5. Submit a Pull Request.
+---
 
-## Guidelines
+# Before You Start
 
-- Write clean and maintainable code.
-- Keep documentation up to date.
-- Follow project conventions.
+Please ensure that you:
 
-Thank you for contributing!
+- Read the project documentation.
+- Search existing Issues before opening a new one.
+- Follow the project's coding standards.
+- Keep Pull Requests focused on a single purpose.
+
+---
+
+# Development Environment
+
+Recommended tools:
+
+- PHP 8.3+
+- Composer
+- MySQL 8+
+- Git
+- Visual Studio Code or PhpStorm
+
+Optional:
+
+- Docker
+- Redis
+
+---
+
+# Branch Strategy
+
+Please use the following naming conventions:
+
+feature/feature-name
+
+bugfix/issue-name
+
+hotfix/security-fix
+
+docs/update-documentation
+
+refactor/component-name
+
+Example:
+
+feature/product-review-system
+
+---
+
+# Commit Message Convention
+
+Use clear and descriptive commit messages.
+
+Examples:
+
+feat: add product rating system
+
+fix: resolve SQL injection vulnerability
+
+docs: update installation guide
+
+refactor: improve authentication service
+
+style: format source code
+
+test: add unit tests
+
+---
+
+# Coding Standards
+
+Please follow:
+
+- PSR-12 Coding Style
+- Meaningful variable names
+- Small reusable methods
+- Proper comments where necessary
+- Security-first development
+
+Avoid:
+
+- Duplicate code
+- Hardcoded secrets
+- Unused files
+- Dead code
+
+---
+
+# Pull Request Guidelines
+
+Before submitting:
+
+- Update documentation if necessary.
+- Test your changes.
+- Resolve merge conflicts.
+- Ensure no sensitive data is committed.
+
+Every Pull Request should clearly explain:
+
+- What changed
+- Why it changed
+- How it was tested
+
+---
+
+# Reporting Bugs
+
+Please include:
+
+- PHP version
+- Browser
+- Operating System
+- Steps to reproduce
+- Expected behavior
+- Actual behavior
+- Screenshots (if applicable)
+
+---
+
+# Feature Requests
+
+Feature requests should explain:
+
+- Problem
+- Proposed solution
+- Alternatives considered
+- Benefits
+
+---
+
+# Security
+
+Security vulnerabilities must NOT be reported through public GitHub Issues.
+
+Please see SECURITY.md.
+
+---
+
+# Code Review
+
+Every contribution may be reviewed for:
+
+- Code quality
+- Security
+- Performance
+- Maintainability
+- Documentation
+
+Maintainers may request changes before merging.
+
+---
+
+# Documentation
+
+Documentation improvements are always welcome.
+
+This includes:
+
+- Tutorials
+- Examples
+- Installation guides
+- API documentation
+- FAQ
+
+---
+
+# Community
+
+Please follow our Code of Conduct.
+
+Be respectful.
+
+Be constructive.
+
+Help others learn.
+
+---
+
+# License
+
+By contributing, you agree that your contributions will be licensed under the project's license.
+
+---
+
+# Thank You
+
+Thank you for helping build Codexeron into a trusted platform for developers worldwide.
