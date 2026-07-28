@@ -1,12 +1,126 @@
 # Security Policy
 
-## Reporting a Vulnerability
+Thank you for helping keep Codexeron and our community safe.
 
-If you discover a security issue, please do not create a public issue.
+We take security seriously and appreciate responsible disclosure of security vulnerabilities.
 
-Instead, contact us privately through our official website.
+---
 
-Website:
-https://www.codexeron.com
+# Supported Versions
 
-Thank you for helping us improve the security of Codexeron.
+The following versions currently receive security updates.
+
+| Version | Supported |
+|----------|-----------|
+| 1.x.x    | ✅ Yes |
+| < 1.0    | ❌ No |
+
+---
+
+# Reporting a Vulnerability
+
+If you discover a security vulnerability, please do not create a public GitHub Issue.
+
+Instead, report it privately.
+
+Contact:
+
+security@codexeron.com
+
+Please include:
+
+- Detailed description
+- Steps to reproduce
+- Proof of Concept (if available)
+- Screenshots
+- Expected behavior
+- Impact assessment
+
+---
+
+# Response Timeline
+
+We aim to respond according to the following timeline.
+
+Initial Response
+
+Within 48 hours
+
+Investigation
+
+Within 7 business days
+
+Fix Development
+
+Depends on severity.
+
+Security patches are prioritized.
+
+---
+
+# Responsible Disclosure
+
+Please allow us reasonable time to investigate and fix reported vulnerabilities before public disclosure.
+
+We appreciate researchers who follow responsible disclosure practices.
+
+---
+
+# Scope
+
+Examples include:
+
+- Authentication bypass
+- Authorization issues
+- SQL Injection
+- XSS
+- CSRF
+- Remote Code Execution
+- File Upload vulnerabilities
+- Privilege Escalation
+- Sensitive Data Exposure
+- Business Logic flaws
+
+---
+
+# Out of Scope
+
+The following generally do not qualify.
+
+- Missing HTTP headers
+- Clickjacking without exploit
+- Self-XSS
+- Spam reports
+- Social engineering
+- Physical attacks
+- Outdated browser issues
+
+---
+
+# Security Best Practices
+
+Researchers should:
+
+- Avoid accessing unnecessary user data
+- Do not interrupt service
+- Do not modify customer data
+- Avoid automated destructive scanning
+- Report findings privately
+
+---
+
+# Future Security Program
+
+Future plans include:
+
+- Security.txt
+- PGP encrypted reporting
+- Bug Bounty Program
+- Security Hall of Fame
+- Coordinated Vulnerability Disclosure (CVD)
+
+---
+
+# Thank You
+
+We sincerely appreciate everyone who helps improve the security of Codexeron.
